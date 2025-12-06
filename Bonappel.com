@@ -5,17 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ethan Davis | Bon Appel | Senior IT Engineer</title>
     
-    <!-- React & ReactDOM -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
     
-    <!-- Babel for JSX -->
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     
-    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&family=Playfair+Display:ital,wght@1,400;1,600&display=swap" rel="stylesheet">
 
     <style>
@@ -284,8 +280,8 @@
                             <div className="absolute -top-4 -left-4 w-24 h-24 border-t-2 border-l-2 border-amber-500/50"></div>
                             <div className="absolute -bottom-4 -right-4 w-24 h-24 border-b-2 border-r-2 border-amber-500/50"></div>
                             <img 
-                                src="/api/(Pose 1 - Waist Up).jpeg/600/600" 
-                                alt="Ethan Davis Workspace" 
+                                src="Pose1.jpeg" 
+                                alt="Ethan Davis" 
                                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 object-cover rounded-sm shadow-2xl border border-zinc-800"
                                 onError={(e) => {
                                     e.target.style.display='none';
