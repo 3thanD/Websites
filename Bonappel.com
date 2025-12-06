@@ -343,22 +343,43 @@
                 {
                     icon: Cloud,
                     title: "Cloud & Identity",
-                    skills: ["Microsoft Azure AD", "Microsoft Intune (MDM)", "Google Workspace", "Office 365 Migration", "Exchange Online"]
+                    skills: [
+                        "Microsoft Entra ID (Azure)",
+                        "Google Workspace & GCP",
+                        "Office 365 / SharePoint",
+                        "Microsoft Teams Voice"
+                    ]
                 },
                 {
                     icon: Network,
-                    title: "Network Infrastructure",
-                    skills: ["Fortigate Firewalls", "HPE Aruba Switches", "Extreme Networks (Fabric)", "VPN Configuration", "SD-WAN"]
+                    title: "Networking & Security",
+                    skills: [
+                        "Fortigate / SonicWall / WatchGuard",
+                        "HPE Aruba & Extreme Switching",
+                        "EDR / XDR Security Implementation",
+                        "VPN Troubleshooting"
+                    ]
                 },
                 {
                     icon: Smartphone,
-                    title: "Endpoint Management",
-                    skills: ["JAMF Pro (Apple MDM)", "VMware AirWatch", "Papercut/Docuware", "Windows 10/11 Deployment", "Hardware Lifecycle"]
+                    title: "Endpoint & Mobility",
+                    skills: [
+                        "Microsoft Intune (MDM)",
+                        "JAMF Pro & Apple Business Mgr",
+                        "VMware AirWatch",
+                        "Meraki & Cradlepoint"
+                    ]
                 },
                 {
-                    icon: Code,
-                    title: "Dev & Automation",
-                    skills: ["HTML5 / CSS3 / React", "Node.js Automation", "PowerShell Scripting", "WordPress Management", "Adobe Creative Suite"]
+                    icon: Server,
+                    title: "Infrastructure & Apps",
+                    skills: [
+                        "VMware vSphere / VXrail",
+                        "Windows Server & Linux",
+                        "Microsoft SQL Server",
+                        "AutoTask / Datto / ITGlue",
+                        "BS&A & ERP Systems"
+                    ]
                 }
             ];
 
