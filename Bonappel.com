@@ -538,7 +538,7 @@
                                 <span className="text-white font-semibold">LinkedIn</span>
                                 <span className="text-zinc-500 text-sm mt-1">Connect professionally</span>
                             </a>
-                            <a href="#" className="bg-zinc-900 p-6 border border-zinc-800 hover:border-amber-500 transition-all group flex flex-col items-center">
+                            <a href="https://github.com/3thanD" className="bg-zinc-900 p-6 border border-zinc-800 hover:border-amber-500 transition-all group flex flex-col items-center">
                                 <Github className="text-amber-500 mb-4 group-hover:scale-110 transition-transform" />
                                 <span className="text-white font-semibold">GitHub</span>
                                 <span className="text-zinc-500 text-sm mt-1">Review my code</span>
